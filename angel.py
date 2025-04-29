@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 from flask import Flask, request
 
-TOKEN = '6700432608:AAGLewsKHozPU8WoAIzvdEtYLGUhqZAZw'  # replace your bot token
+TOKEN = '8025198727:AAF7sQa6srVJwKOxhRyUtgk_rbKG2p26ZC8'  # replace your bot token
 
 bot = telebot.TeleBot(TOKEN)
 
